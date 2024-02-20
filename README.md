@@ -1,3 +1,7 @@
+---
+tags: ["db", "glue"]
+---
+
 # apache-iceberg-playground
 
 learn [Apache Iceberg](https://iceberg.apache.org/)
