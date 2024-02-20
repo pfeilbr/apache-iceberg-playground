@@ -1,5 +1,5 @@
 ---
-tags: ["db", "glue"]
+tags: ["db", "spark", "glue", "emr"]
 ---
 
 # apache-iceberg-playground
